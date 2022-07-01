@@ -1,0 +1,16 @@
+{
+  "name": "test-package",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ohmiler/object-cloner": "^2.0.0"
+  }
+}

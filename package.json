@@ -1,0 +1,16 @@
+{
+  "name": "@ohmiler/object-cloner",
+  "version": "2.0.0",
+  "description": "A simple utility library for cloning objects and arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "clone",
+    "objects",
+    "arrays"
+  ],
+  "author": "ohmiler <misterpatipan123@gmail.com> (https://twitter.com/ohmiler)",
+  "license": "ISC"
+}
